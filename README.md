@@ -1,7 +1,7 @@
-#h2 Treatment Scraper
+### Treatment Scraper
 
-#h3 Motivation:
-objective define appropriate antimicrobial spectrum without need to consult clinicians
+#### Motivation:
+To objectively define appropriate antimicrobial spectrum without need to consult clinicians
 
-#h3 Data Source:
+#### Data Source:
 [Antimicrobe](antimicrobe.org) - the most comprehensive authoritative database for infectious diseases and antimicrobial agents today!
